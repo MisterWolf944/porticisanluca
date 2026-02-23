@@ -85,7 +85,7 @@ def update_texts_json_nav(repo_root, page_id, nav_key_id, translations):
         "mainText": "", "mainText1": "", "mainText2": "", "mainText3": "", "mainText4": "", "mainText5": "",
         "playAudioButton": "Ascolta", "pauseAudioButton": "Pausa",
         "imageSource1": "", "imageSource2": "", "imageSource3": "", "imageSource4": "", "imageSource5": "",
-        "headImage": "", "sourceText": "", "creationDate": current_date, "lastUpdate": current_date,
+        "headImage": "Meloncello.jpg", "sourceText": "", "creationDate": current_date, "lastUpdate": current_date,
         "audioSource": "" 
     }
     
